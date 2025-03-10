@@ -5,17 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
-    <h1>cor de fundo</h1>
-    <form action="form05.php" method="post">
+<body  >
+    
+    <form action="form05.php" method="POST">
+        <p>
+            DIgite seu usuário: <input type="text" name="cxusuário" >
+        </p>
+        <p>
+            <select name="cxcor">
+                <option value="red"> vermelho </option>
+                <option value="grenn"> verde </option>
+                <option value="yellow">amarelo</option>
+                <option value="pink">rosa</option>
+               </select>
+        </p>
 
-        <p>DIGITE UMA COR: <input type="color" name="cxcor" id=""></p>
-
-
-
-        <body style="background-color: <?php echo "$CorEscolhida" ?>;">
+           
+        <input type="submit" value="ENVIAR">
     </form>
-
-
 </body>
 </html>
