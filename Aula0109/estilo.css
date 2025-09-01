@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(179, 53, 190, 0.849);
+}
+
+.white{
+    color: #ffffff;
+    margin-left: 35%;
+    margin-top: 2%;
+}
+
+.white2{
+    color: #ffffff;
+    margin-left: 40%;
+}
+
+.btn-group{
+    display: flex;
+    align-items: center;
+    width: 30%;
+    margin-left: 32%;
+    margin-top: 15%;
+    
+}
+
+.p{
+    margin-left: 30%;
+    color: #980956;
+    margin-bottom: 3%;
+    margin-top: 5%;
+}
+
+.p2{
+    margin-left: 35%;
+    color: #980956;
+    margin-bottom: 3%;
+    margin-top: 5%;
+}
+
