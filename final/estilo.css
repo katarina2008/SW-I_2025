@@ -1,0 +1,49 @@
+body{
+    background-color: rgba(179, 53, 190, 0.849);
+    background-image: url(https://classic.exame.com/wp-content/uploads/2019/08/gettyimages-1061868580.jpg) ;
+}
+
+.white{
+    color: #ffffff;
+    margin-left: 37%;
+    margin-top: 5%;
+    
+
+   
+}
+
+.fundo{
+    background-color: #9159a7;
+    
+}
+
+.white2{
+    color: #ffffff;
+    margin-left: 43%;
+    margin-bottom: 10%;
+    display: flex;
+    align-items: center;
+}
+
+.btn-group{
+    display: flex;
+    align-items: center;
+    width: 30%;
+    margin-left: 32%;
+    margin-top: 15%;
+    
+}
+
+.p{
+    margin-left: 30%;
+    color: #980956;
+    margin-bottom: 3%;
+    background-color: #9159a7;
+}
+
+.btn-primary{
+    background-color: #720e99;
+    border: #980956;
+    align-items: center;
+    
+}
